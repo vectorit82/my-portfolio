@@ -9,6 +9,7 @@
   "author": "Vector",
   "license": "ISC",
   "devDependencies": {
+    "@fancyapps/ui": "^4.0.12",
     "animate.css": "^4.1.1",
     "browser-sync": "^2.27.7",
     "del": "^6.0.0",

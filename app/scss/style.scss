@@ -675,16 +675,6 @@
     @include r($sm) {
       font-size: 18px;
      }
-
-    &--trable {
-      max-width: 175px;
-      width: 100%;
-    }
-
-    &--trable-two {
-      max-width: 82px;
-      width: 100%;
-    }
   }
 
   &__line {
